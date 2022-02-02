@@ -1,0 +1,1 @@
+# Greedy-Algorithm-EntelectChallenge2020
