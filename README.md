@@ -11,7 +11,7 @@ Prioritas Penyelesaian Masalah:
 5. Penggunaan TWEET  
   
 Kondisi di Depan Lawan:
-- Penggunaan OIL, TWEET
+- Penggunaan OIL, TWEET  
 Kondisi di Belakang Lawan:
 - Gunakan EMP, TWEET
 
