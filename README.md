@@ -22,7 +22,7 @@ Kondisi di Belakang Lawan:
 - Java (Minimal Java 8)
 
 ## iii. Meng-compile Program  
-` Copy 'DAMRI.jar' pada folder 'bin' ke dalam folder 'target' di permainan yang ingin dijalankan. Kemudian jalankan 'run.bat'.
+` Copy 'DAMRI.jar' pada folder 'bin' ke dalam folder 'target' di permainan yang ingin dijalankan. Kemudian jalankan 'run.bat'. `
 
 ## iv. Author
 K-02
