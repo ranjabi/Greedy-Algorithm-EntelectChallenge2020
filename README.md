@@ -1,4 +1,4 @@
-# ARIMBI TEAM
+# DAMRI TEAM
 
 Aplikasi Algoritma Greedy dalam Permainan Overdrive 2020. Dibuat untuk memenuhi tugas besar mata kuliah IF2211 Strategi Algoritma.
 
