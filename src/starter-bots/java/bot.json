@@ -3,6 +3,6 @@
 	"email": "contact@DAMRI.com",
 	"nickName": "DAMRI",
 	"botLocation": "/target",
-	"botFileName": "java-starter-bot-jar-with-dependencies.jar",
+	"botFileName": "DAMRI.jar",
 	"botLanguage": "java"
 }
